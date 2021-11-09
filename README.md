@@ -31,4 +31,7 @@ Data Warehouse & Data Mining 2021
   * คุณสมบัติที่ใช้เรียกข้อมูลในแต่ละตัว
   * ชนิดของ Attribute
   * การเลือกค่าสถิติมาใช้แสดงใน Data
+* บทที่ 2 สรุปเนื้อหาเพิ่มเติม [Getting to Know your Data เพิ่มเติม](https://github.com/Kanyarat-S/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%882-Data.pdf)
+  * การวัดความไกล้เคียงของ Binary Attributes
+  * สูตรการคำนวณต่างๆ
 
