@@ -42,4 +42,9 @@ Data Warehouse & Data Mining 2021
   * ทำไมข้อมูลจึงไม่สมบูรณ์
   * วิธีจัดการกับข้อมูลที่ขาดหายไป
   * วิธีจัดการกับข้อมูลรบกวน
+* บทที่ 4 [Data Warehousing and On-line Analytical Processing](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter4.pdf)
+  * Data Warehouse คืออะไร
+  * OLAP
+  * Conceptual modeling of data warehouses
+  * Star Schema,Snowflake Schema,Fact Consllation
 
