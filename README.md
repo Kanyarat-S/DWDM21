@@ -48,4 +48,10 @@ Data Warehouse & Data Mining 2021
   * การสร้างแบบจำลองแนวคิดของ Data Warahouses
   * Data Cube 
   * Star Schema,Snowflake Schema,Fact Consllation
-
+* บทที่ 6 [Mining Frequent, Association and Correlations:Basic Concepts and Methods](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-6.pdf)
+  * Pattern Discovery คืออะไร
+  * ความสำคัญของ Pattern Discovery
+  * ขั้นตอนการทำงานของ K-Itemsets
+  * การหาค่า K-Itemsets
+  * หลักการ Apriori pruning 
+  * The Apriori Algorithm
