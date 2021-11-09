@@ -24,6 +24,11 @@ Data Warehouse & Data Mining 2021
   * การใช้ Data Mining
   * ขั้นตอนการทำ Data Mining
   * กระบวนการของ Data Mining 
-* บทที่ 2 [Getting to Know your Data](https://www.exampleGetting to Knoe your Data
-
+* บทที่ 2 [Getting to Know your Data](https://github.com/Kanyarat-S/DWDM21/blob/main/HW%20Chapter%202.pdf)
+  * ลักษณะของเมทริกซ์มิติต่างๆ
+  * ประเภทของชุดข้อมูล
+  * คุณสมบัติที่สำคัญของข้อมูล
+  * คุณสมบัติที่ใช้เรียกข้อมูลในแต่ละตัว
+  * ชนิดของ Attribute
+  * การเลือกค่าสถิติมาใช้แสดงใน Data
 
