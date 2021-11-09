@@ -45,6 +45,7 @@ Data Warehouse & Data Mining 2021
 * บทที่ 4 [Data Warehousing and On-line Analytical Processing](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter4.pdf)
   * Data Warehouse คืออะไร
   * OLAP
-  * Conceptual modeling of data warehouses
+  * การสร้างแบบจำลองแนวคิดของ Data Warahouses
+  * Data Cube 
   * Star Schema,Snowflake Schema,Fact Consllation
 
