@@ -34,4 +34,12 @@ Data Warehouse & Data Mining 2021
 * บทที่ 2 สรุปเนื้อหาเพิ่มเติม [Getting to Know your Data เพิ่มเติม](https://github.com/Kanyarat-S/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%882-Data.pdf)
   * การวัดความไกล้เคียงของ Binary Attributes
   * สูตรการคำนวณต่างๆ
+* บทที่ 3 [Data Preprocessing](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-3.pdf)
+  * Data Preprocessing คืออะไร
+  * ขั้นตอนของ Data Preprocessing
+  * ทำไมต้องทำ Data Preprocessing
+  * Data Cleaning
+  * ทำไมข้อมูลจึงไม่สมบูรณ์
+  * วิธีจัดการกับข้อมูลที่ขาดหายไป
+  * วิธีการจัดการกับข้อมูลเสียง
 
