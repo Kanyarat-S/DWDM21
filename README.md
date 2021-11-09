@@ -55,3 +55,19 @@ Data Warehouse & Data Mining 2021
   * การหาค่า K-Itemsets
   * หลักการ Apriori pruning 
   * The Apriori Algorithm
+* บทที่ 8 [Classification: Basic Concepts](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-8.pdf)
+  * การสร้างโมเดลแบบมีผู้สอน
+  * การสร้างโมเดลแบบไม่มีผู้สอน
+  * การทำนายปัญหาของ Classification กับ การทำนายออกมาเป็นตัวเลข
+  * การสร้างโมเดลและการเอาโมเดลไปวัดผล
+  * Decision Tree Induction
+  * ตัวอย่างการหาค่า Decision Tree
+  * Another Measure:Gini Index
+  * การหาค่า Gain
+  * Overfitting and Tree Pruning
+  * Confusion Matrix
+
+
+
+
+
