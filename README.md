@@ -75,4 +75,6 @@ Data Warehouse & Data Mining 2021
   * Good Clustering คืออะไร
   * K-Means Clustering
   * รูปแบบของ K-Means 
+ 
+ # สารบัญ Githup
 
