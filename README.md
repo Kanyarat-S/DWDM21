@@ -99,5 +99,38 @@ Data Warehouse & Data Mining 2021
     * คำสั่ง .head() .tail()
     * Boxplot
     * Time Series Plot
+ * [Data Visualization](https://github.com/Kanyarat-S/DWDM21/blob/main/Data_Visualization1.ipynb)
+    * Data Visualization
+      * Scatter plot
+      * Plot
+      * Bar chart
+        * Grouped Barchart
+        * Stacked Barchart
+      * Histogram
+ * [Distance Numpy](https://github.com/Kanyarat-S/DWDM21/blob/main/Distance_Numpy.ipynb)
+   * Numpy Array
+     * สร้าง Numpy Array
+     * matrix transpose
+     * สร้าง matrix เริ่มต้น (zeros, ones)
+     * สร้าง matrix random
+     * matrix properties
+     * Indexing & Slicing
+     * Useful funtion
+     * วนลูปเอง
+       * summation
+     * Quiz กลุ่ม
+   * Distance Matrix
+     * Euclidean Distance (L2-norm)
+     * Dist(P2,P4)
+     * Distance function
+     * Manhattan Distance (L1-norm)
+     * Quiz6+HW
+   * Distance of Binary Value
+
+
+
+
+
+
 
 
