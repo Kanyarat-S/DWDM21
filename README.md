@@ -93,6 +93,11 @@ Data Warehouse & Data Mining 2021
         * ลักษณะตัวอย่าง (ไม่มี output)
         * ลักษณะตัวอย่าง (ไม่มี input และ output)
         * ลักษณะของ input(paremeter,argument)
-        * HW 4 
- 
+      * HW 4 
+  * [Data102](https://github.com/Kanyarat-S/DWDM21/blob/main/Data102(Chapter2).ipynb)
+    * NaN = Not Number (ช่องว่าง)
+    * คำสั่ง .head() .tail()
+    * Boxplot
+    * Time Series Plot
+
 
