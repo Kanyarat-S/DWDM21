@@ -66,7 +66,7 @@ Data Warehouse & Data Mining 2021
   * การหาค่า Gain
   * Overfitting and Tree Pruning
   * Confusion Matrix
-* บทที่ 8 [Classification: Advanced Methods](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-9.pdf)
+* บทที่ 9 [Classification: Advanced Methods](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-9.pdf)
   * Neural Network for Classification
   * Discussion on the K-NN Algorithm
   * ศึกษาเพิ่มเติมจากหนังสือปัญญาประดิษฐ์ บุญเสริม AI
