@@ -70,7 +70,9 @@ Data Warehouse & Data Mining 2021
   * Neural Network for Classification
   * Discussion on the K-NN Algorithm
   * ศึกษาเพิ่มเติมจากหนังสือปัญญาประดิษฐ์ บุญเสริม AI
-
-
-
+* บทที่ 10 [Cluster Analysis](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter-10.pdf)
+  * Cluster Analysis คืออะไร
+  * Good Clustering คืออะไร
+  * K-Means Clustering
+  * รูปแบบของ K-Means 
 
