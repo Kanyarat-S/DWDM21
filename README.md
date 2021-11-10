@@ -81,7 +81,7 @@ Data Warehouse & Data Mining 2021
    * Basic Python
      * Casting int ( ) Float ( ) str ( )
      * Data Structure
-     * วิธีสร้าง list ว่าง
+        * วิธีสร้าง list ว่าง
         * list slicing
         * list + list
      * Loop
