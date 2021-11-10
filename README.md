@@ -84,10 +84,10 @@ Data Warehouse & Data Mining 2021
         * วิธีสร้าง list ว่าง
         * list slicing
         * list + list
-     * Loop
-        * Nested loop
-        * Condition (if sratement )
-        * HW 3 ตัดเกรด
+        * Loop
+   * Nested loop
+      * Condition (if sratement )
+      * HW 3 ตัดเกรด
      * Function
         * ลักษณะตัวอย่าง (ไม่มี input)
         * ลักษณะตัวอย่าง (ไม่มี output)
