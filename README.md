@@ -77,4 +77,22 @@ Data Warehouse & Data Mining 2021
   * รูปแบบของ K-Means 
  
  # สารบัญ Githup
+ * บทที่ 2 [Data101](https://github.com/Kanyarat-S/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+   * Basic Python
+    * Casting int ( ) Float ( ) str ( )
+    * Data Structure
+   * วิธีสร้าง list ว่าง
+    * list slicing
+    * list + list
+   * Loop
+    * Nested loop
+    * Condition (if sratement )
+    * HW 3 ตัดเกรด
+    * Function
+     * ลักษณะตัวอย่าง (ไม่มี input)
+     * ลักษณะตัวอย่าง (ไม่มี output)
+     * ลักษณะตัวอย่าง (ไม่มี input และ output)
+     * ลักษณะของ input(paremeter,argument)
+     * HW 4 
+ 
 
