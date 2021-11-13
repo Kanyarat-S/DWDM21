@@ -161,9 +161,13 @@ Data Warehouse & Data Mining 2021
     * [PD] save ตารางเอาไปใช้ที่อื่น
     * [PD]การสร้างตาราง
     * [PD]การสร้างตาราง
-
-
-
+* บทที่ 5 [Association Rlues](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+  * HW 
+    * Hw13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+    * วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+    * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * Apriori
+  * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง
 
 
 
