@@ -164,13 +164,53 @@ Data Warehouse & Data Mining 2021
 * บทที่ 5 [Association Rlues](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * HW 
     * Hw13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
-    * วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
-    * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * ลบ records ที่ถูก cancel ออกไป
   * Apriori
   * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง
-
-
-
+* บทที่ 6 [Classification_(Decision_Tree)](https://github.com/Kanyarat-S/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * Load data
+  * Train Model
+    * import (เรียกใช้ algorithm ที่เราต้องการ)
+    * define (กำหนด parameters ให้กับ model)
+    * train (ฝึกสอนตัวแบบ)
+  * plot tree
+  * Evaluation
+    * Random
+  * Advanced Tree
+    * Import
+    * Define
+    * Train
+  * TEST
+  * Start here
+    * Import
+    * Define
+    * Train
+    * Evaluate
+    * HW
+[Classification_(Evaluation)](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+  * Load data
+     * แบ่ง Data
+  * สร้าง Model ทำนาย
+     * Import
+     * Define
+     * Train
+     * Evaluation
+[Classification_(KNN_NN))](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+  * Load data
+  * Split Data
+  * Train Model
+    * import
+    * knn1
+    * knn2
+    * knn3
+  * Retrain & Evaluate
+  * Neural Network
+    * Import
+    * Define
+    * Train - Test
+    * ANN 2
+    * ANN 3
 
 
 
