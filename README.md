@@ -126,6 +126,42 @@ Data Warehouse & Data Mining 2021
      * Manhattan Distance (L1-norm)
      * Quiz6+HW
    * Distance of Binary Value
+* บทที่ 3 [Data Preprocessing](https://github.com/Kanyarat-S/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+  * Meta Data (Data ที่ใช้อธิบาย Data)
+    * ชี้ข้อมูลในตาราง
+    * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+    * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
+  * Missing Values
+    * Handling Missing Value 1 (ลบค่า missing)
+    * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไป กี่ %
+    * Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+    * Quiz 3.1 ให้ หาว่า การทำ dropna() แบบเลือก drop เฉพาะ column ที่เราสนใจ (age) ทำให้ข้อมูลหายไป กี่ %
+    * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+    * Handling Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+    * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
+    * เติมด้วยค่าของ colum ไกล้เคียง (เดี๋ยวย้อนกลับมา)
+    * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+  * Select data by value [PD]
+    * สร้าง list ของ boolean
+      * นำ list ของ boolean มาเลือกค่าในตาราง
+    * Quiz 4+ HW
+      * เอาค่า mean ไปเติมตรง missing column 'age'
+    * ต่อตารางแนวแกน Y [PD]
+    * การเรียงข้อมูล [PD]
+  * Outlier
+  * Quiz 5
+    * Quiz กลุ่ม (III) แก้ให้ function box_vals สามารถรับ input ที่ box plot วาดแบบแนวนอนได้ (vert = False)
+    * Pandas' looping (.iterrows)
+  * การรวมตาราง Data Integration (ต่อตารางในแนวแกน x)
+    * รวม 2 ตาราง (.merge())
+    * เลือกเฉพาะ column ที่ต้องการมาแปะ (.map())
+  * ตารางรอง (ตารางข้างขวา) ต้องไม่มี index ซ้ำ
+    * Group by (pandas)
+    * HW + Quiz
+    * [PD] save ตารางเอาไปใช้ที่อื่น
+    * [PD]การสร้างตาราง
+    * [PD]การสร้างตาราง
+
 
 
 
