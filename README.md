@@ -188,7 +188,7 @@ Data Warehouse & Data Mining 2021
     * Train
     * Evaluate
     * HW
-[Classification_(Evaluation)](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+* [Classification_(Evaluation)](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
   * Load data
      * แบ่ง Data
   * สร้าง Model ทำนาย
@@ -196,7 +196,7 @@ Data Warehouse & Data Mining 2021
      * Define
      * Train
      * Evaluation
-[Classification_(KNN_NN))](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+* [Classification_(KNN_NN))](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
   * Load data
   * Split Data
   * Train Model
@@ -211,6 +211,21 @@ Data Warehouse & Data Mining 2021
     * Train - Test
     * ANN 2
     * ANN 3
-
-
+* บทที่ 7 [Clustering](https://github.com/Kanyarat-S/DWDM21/blob/main/Chap8_Clustering.ipynb)
+  * K-means
+    * Generate Data
+    * Explore data
+  * Clustering
+    * Import
+    * Define
+    * Fit-Predict
+  * Example Application (Color Quantization)
+    * นับจำนวนสี
+    * จัดกลุ่มสี
+    * ใช้ centroid เป็นตัวแทนของสี
+ * MiniExam
+   * [MiniExam](https://github.com/Kanyarat-S/DWDM21/blob/main/MiniExam.ipynb)
+ * Project
+   * [Project](https://github.com/Kanyarat-S/DWDM21/blob/main/Project_DWDM.ipynb)
+   * [PPT Present](https://github.com/Kanyarat-S/DWDM21/blob/main/Presentproject.pdf)
 
